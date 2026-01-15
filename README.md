@@ -39,14 +39,16 @@ No backend. No JavaScript. No frameworks.
 ---
 
 ## 📂 Project Structure
-open-source-101
-│
+
+```
+open-source-101/
 ├── index.html
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── assets/
-└── styles.css (optional)
+    └── styles.css (optional)
+```
 
 
 ---
